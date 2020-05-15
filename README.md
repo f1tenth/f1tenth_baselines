@@ -1,5 +1,9 @@
 # F1TENTH Benchmarks and Baseline Solutions
-This is the repository for the baseline solutions from our paper *F1TENTH: An Open-source Evaluation Environment for Continuous Control and Reinforcement Learning* in the Post Proceedings of the NeurIPS 2019 Demonstration and Competition Track.
+This is the repository for the baseline solutions from our paper 
+
+*F1TENTH: An Open-source Evaluation Environment for Continuous Control and Reinforcement Learning* 
+
+in the Post Proceedings of the NeurIPS 2019 Demonstration and Competition Track.
 
 If you find our environment or the baseline solutions useful, please cite:
 ```
