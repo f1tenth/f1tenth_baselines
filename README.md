@@ -3,7 +3,7 @@ This is the repository for the baseline solutions from our paper
 
 *F1TENTH: An Open-source Evaluation Environment for Continuous Control and Reinforcement Learning* 
 
-in the Post Proceedings of the NeurIPS 2019 Demonstration and Competition Track.
+in the Post Proceedings of the NeurIPS 2019 Demonstration and Competition Track. For the Gym Environment, please see the repo [here](https://github.com/f1tenth/f1tenth_gym).
 
 If you find our environment or the baseline solutions useful, please cite:
 ```
